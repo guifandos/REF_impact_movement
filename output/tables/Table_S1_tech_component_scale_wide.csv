@@ -1,0 +1,7 @@
+"tech","How_continental","How_global","How_local","How_regional","Where_continental","Where_global","Where_local","Where_regional","Why_continental","Why_global","Why_local","Why_regional","When_continental","When_global","When_local","When_regional"
+"Wind (onshore)",1,0,26,7,2,0,32,7,0,0,17,5,1,0,13,5
+"Wind (offshore)",0,0,15,2,0,0,15,2,0,0,2,2,0,0,5,1
+"Hydropower",1,0,12,9,1,0,15,10,0,0,8,3,1,0,8,5
+"Solar",0,0,1,1,0,0,1,2,0,0,1,1,0,0,1,0
+"Tidal",0,1,5,0,0,0,8,0,0,0,5,0,0,0,4,0
+"Other",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0

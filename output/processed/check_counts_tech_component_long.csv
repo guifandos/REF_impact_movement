@@ -1,0 +1,25 @@
+"tech","component","N","pct_within_tech"
+"Wind (onshore)","How",34,29.3103448275862
+"Wind (onshore)","When",19,16.3793103448276
+"Wind (onshore)","Where",41,35.3448275862069
+"Wind (onshore)","Why",22,18.9655172413793
+"Wind (offshore)","How",17,38.6363636363636
+"Wind (offshore)","When",6,13.6363636363636
+"Wind (offshore)","Where",17,38.6363636363636
+"Wind (offshore)","Why",4,9.09090909090909
+"Hydropower","How",22,30.1369863013699
+"Hydropower","When",14,19.1780821917808
+"Hydropower","Where",26,35.6164383561644
+"Hydropower","Why",11,15.0684931506849
+"Solar","How",2,25
+"Solar","When",1,12.5
+"Solar","Where",3,37.5
+"Solar","Why",2,25
+"Tidal","How",6,26.0869565217391
+"Tidal","When",4,17.3913043478261
+"Tidal","Where",8,34.7826086956522
+"Tidal","Why",5,21.7391304347826
+"Other","How",1,50
+"Other","When",0,0
+"Other","Where",1,50
+"Other","Why",0,0

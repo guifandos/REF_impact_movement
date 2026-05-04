@@ -1,0 +1,97 @@
+"tech","component","scale","N"
+"Wind (onshore)","How","continental",1
+"Wind (onshore)","How","global",0
+"Wind (onshore)","How","local",26
+"Wind (onshore)","How","regional",7
+"Wind (onshore)","When","continental",1
+"Wind (onshore)","When","global",0
+"Wind (onshore)","When","local",13
+"Wind (onshore)","When","regional",5
+"Wind (onshore)","Where","continental",2
+"Wind (onshore)","Where","global",0
+"Wind (onshore)","Where","local",32
+"Wind (onshore)","Where","regional",7
+"Wind (onshore)","Why","continental",0
+"Wind (onshore)","Why","global",0
+"Wind (onshore)","Why","local",17
+"Wind (onshore)","Why","regional",5
+"Wind (offshore)","How","continental",0
+"Wind (offshore)","How","global",0
+"Wind (offshore)","How","local",15
+"Wind (offshore)","How","regional",2
+"Wind (offshore)","When","continental",0
+"Wind (offshore)","When","global",0
+"Wind (offshore)","When","local",5
+"Wind (offshore)","When","regional",1
+"Wind (offshore)","Where","continental",0
+"Wind (offshore)","Where","global",0
+"Wind (offshore)","Where","local",15
+"Wind (offshore)","Where","regional",2
+"Wind (offshore)","Why","continental",0
+"Wind (offshore)","Why","global",0
+"Wind (offshore)","Why","local",2
+"Wind (offshore)","Why","regional",2
+"Hydropower","How","continental",1
+"Hydropower","How","global",0
+"Hydropower","How","local",12
+"Hydropower","How","regional",9
+"Hydropower","When","continental",1
+"Hydropower","When","global",0
+"Hydropower","When","local",8
+"Hydropower","When","regional",5
+"Hydropower","Where","continental",1
+"Hydropower","Where","global",0
+"Hydropower","Where","local",15
+"Hydropower","Where","regional",10
+"Hydropower","Why","continental",0
+"Hydropower","Why","global",0
+"Hydropower","Why","local",8
+"Hydropower","Why","regional",3
+"Solar","How","continental",0
+"Solar","How","global",0
+"Solar","How","local",1
+"Solar","How","regional",1
+"Solar","When","continental",0
+"Solar","When","global",0
+"Solar","When","local",1
+"Solar","When","regional",0
+"Solar","Where","continental",0
+"Solar","Where","global",0
+"Solar","Where","local",1
+"Solar","Where","regional",2
+"Solar","Why","continental",0
+"Solar","Why","global",0
+"Solar","Why","local",1
+"Solar","Why","regional",1
+"Tidal","How","continental",0
+"Tidal","How","global",1
+"Tidal","How","local",5
+"Tidal","How","regional",0
+"Tidal","When","continental",0
+"Tidal","When","global",0
+"Tidal","When","local",4
+"Tidal","When","regional",0
+"Tidal","Where","continental",0
+"Tidal","Where","global",0
+"Tidal","Where","local",8
+"Tidal","Where","regional",0
+"Tidal","Why","continental",0
+"Tidal","Why","global",0
+"Tidal","Why","local",5
+"Tidal","Why","regional",0
+"Other","How","continental",0
+"Other","How","global",0
+"Other","How","local",1
+"Other","How","regional",0
+"Other","When","continental",0
+"Other","When","global",0
+"Other","When","local",0
+"Other","When","regional",0
+"Other","Where","continental",0
+"Other","Where","global",0
+"Other","Where","local",1
+"Other","Where","regional",0
+"Other","Why","continental",0
+"Other","Why","global",0
+"Other","Why","local",0
+"Other","Why","regional",0

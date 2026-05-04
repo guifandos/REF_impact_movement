@@ -1,0 +1,121 @@
+id_paper;MDS1;MDS2;year_publication;country;area;wallace_bioregion;number_sp;energy;how;where;when;why;geographical_scale;organizational_lvl;tracking_method;ecosystem;spatial_scale;spatial_ext;organizational_lvl_fact;Ecosystem;ecological_scale
+2;-0,1763414653082221;0,266229016978831501;2004;USA;North America;Neartic;5;Eolic terrestrial;Yes;No;No;No;local;3;Bioacustic;forests;Multi_scale;1;species;forests;species
+4;-0,2041419954331507;-0,310891834224864161;2021;NA;NA;NA;1;Tidal power;Yes;No;No;No;global;3;No tracking;oceans/coasts;Short_scale;4;species;oceans/coasts;species
+5;0,1050206544594373;0,010312930775251224;2021;Scotland;Europe;Paleartic;1;Tidal power;No;Yes;No;No;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+10;0,1090353155762911;0,008816741915509803;2022;Canada;North America;Neartic;1;Tidal power;No;No;No;No;local;1;Biologgers;oceans/coasts;Multi_scale;1;individuals;oceans/coasts;individuals
+14;-0,0682675600513201;0,061449165729677763;2020;UK;Europe;Paleartic;2;Tidal power;No;No;No;No;local;2;Other;oceans/coasts;Short_scale;1;populations;oceans/coasts;populations
+15;0,0881455629522789;0,028327856769223034;2018;Germany;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;No;No;local;1;Biologgers;forests;Multi_scale;1;individuals;forests;individuals
+18;-0,2658195017095667;-0,027466904612870120;2021;USA;North America;Neartic;6;Offshore eolic;No;No;No;No;regional;3;Bioacustic;oceans/coasts;Large_scale;2;species;oceans/coasts;species
+19;-0,0406581205308914;0,102608025955320675;2012;Denmark;Europe;Paleartic;1;Eolic terrestrial;Yes;No;No;Yes;local;2;radar;oceans/coasts;Short_scale;1;populations;oceans/coasts;populations
+20;0,0966647515056158;0,011268587648978173;2021;Scotland;Europe;Paleartic;1;Tidal power;No;No;No;No;local;1;Biologgers;oceans/coasts;Large_scale;1;individuals;oceans/coasts;individuals
+23;0,1350181193028303;-0,064414397293263592;2013;United Kindom;Europe;Paleartic;1;Offshore eolic;No;No;No;No;regional;1;Biologgers;oceans/coasts;Short_scale;2;individuals;oceans/coasts;individuals
+24;-0,2580282438558852;0,224135917066979939;2013;United States;North America;Neartic;15;Eolic terrestrial;No;Yes;No;No;local;4;No tracking;other;Medium_scale;1;communities;other;communities
+27;0,0932556236460714;0,011345671846972787;2021;United Kingdom;Europe;Paleartic;1;Hydroelectric;Yes;Yes;No;Yes;local;1;radar;freshwaters;Multi_scale;1;individuals;freshwaters;individuals
+32;0,1098664627295759;0,024959092779061335;2022;Japan;East Asia;Sino-Japanese;2;Offshore eolic;No;Yes;No;No;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+37;0,1020096425203714;-0,075737594075592454;2021;United States;North America;Neartic;1;Eolic terrestrial;No;Yes;No;Yes;regional;1;Biologgers;other;Multi_scale;2;individuals;other;individuals
+40;0,0873295177318046;0,009956026466069733;2021;South Africa;South Africa;Afrotropical;1;Eolic terrestrial;Yes;Yes;Yes;Yes;local;1;Biologgers;grasslands/shrublands/Savannahs;Multi_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+41;0,1293581246332377;0,088042296998150457;2007;Denmark;Europe;Paleartic;1;Offshore eolic;Yes;Yes;No;No;local;1;Other;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+43;-0,0384818411200138;0,060991956524235391;2015;England;Europe;Paleartic;1;Offshore eolic;Yes;No;No;No;local;2;Biologgers;oceans/coasts;Short_scale;1;populations;oceans/coasts;populations
+44;0,1473090355473048;-0,126325933935254597;2018;NA;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;No;No;continental;1;Biologgers;other;Large_scale;3;individuals;other;individuals
+46;0,0636057515451908;0,055583020435827774;2017;Steuben Maine;North America;Neartic;2;Offshore eolic;Yes;Yes;Yes;No;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+47;0,0756955346053316;0,024623232966840995;2018;United Kingdom;Europe;Paleartic;1;Offshore eolic;Yes;No;Yes;No;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+48;0,0776783001183147;0,019993057103821297;2019;Australia;Australia;Australian;1;Eolic terrestrial;Yes;No;No;No;local;1;Biologgers;peatlands;Short_scale;1;individuals;peatlands;individuals
+51;-0,0425684293648442;0,026941390346114143;2020;Belgium;Europe;Paleartic;1;Offshore eolic;No;Yes;No;No;local;2;Biologgers;farmlands;Short_scale;1;populations;farmlands;populations
+54;0,0839472387006712;0,060085379597610671;2012;UK;Europe;Paleartic;1;Offshore eolic;No;Yes;No;No;local;1;radar;farmlands;Large_scale;1;individuals;farmlands;individuals
+56;-0,0376924873203772;0,048584249146488019;2016;UK;Europe;Paleartic;1;Eolic terrestrial;No;No;No;No;local;2;Biologgers;peatlands;Multi_scale;1;populations;peatlands;populations
+57;-0,0444435650056115;0,021980633434182880;2021;Scotland;Europe;Paleartic;1;Offshore eolic;No;Yes;No;No;local;2;Biologgers;farmlands;Short_scale;1;populations;farmlands;populations
+58;0,0708889567766907;0,040138707806888753;2015;Scotland;Europe;Paleartic;1;Eolic terrestrial;Yes;No;No;No;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+59;-0,0471262523594377;0,022785204095342768;2022;United Kingdon (Scotland);Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;No;No;local;2;Biologgers;grasslands/shrublands/Savannahs;Short_scale;1;populations;grasslands/shrublands/Savannahs;populations
+60;0,0495701985866091;0,135908712024740058;2015;Switzerland;Europe;Paleartic;11;Eolic terrestrial;Yes;Yes;No;No;local;1;radar;mountains;Multi_scale;1;individuals;mountains;individuals
+61;0,0731021701954002;0,018607372363358222;2019;Scotland/UK;Europe;Paleartic;1;Tidal power;No;No;No;No;local;1;No tracking;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+63;0,0966998605312321;0,023274268506542933;2022;United Kingdom;Europe;Paleartic;2;Offshore eolic;Yes;Yes;No;Yes;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+70;-0,3156509295518718;0,021417010840721409;2018;England;Europe;Paleartic;6;Hydroelectric;Yes;Yes;No;No;regional;4;Biologgers;freshwaters;Multi_scale;2;communities;freshwaters;communities
+71;0,0843339004523889;0,064287150483299083;2011;Japan;East Asia;Sino-Japanese;1;Eolic terrestrial;Yes;Yes;Yes;Yes;local;1;No tracking;freshwaters;Short_scale;1;individuals;freshwaters;individuals
+73;0,0666250730423019;0,021373617165350155;2018;Scotland;Europe;Paleartic;1;Tidal power;Yes;Yes;Yes;Yes;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+74;0,1232706665605006;0,088843876914680639;2006;United Kingdom;Europe;Paleartic;1;Offshore eolic;Yes;Yes;Yes;Yes;local;1;Biologgers;oceans/coasts;Multi_scale;1;individuals;oceans/coasts;individuals
+76;0,0741607469253698;0,007364942775419767;2021;Germany, Denmark;Europe;Paleartic;1;Offshore eolic;Yes;Yes;No;No;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+77;0,0736526278043295;0,006815111182714733;2021;United Kingdom;Europe;Paleartic;1;Tidal power;Yes;Yes;No;Yes;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+78;0,0627082552403297;0,025939438827207350;2017;Germany;Europe;Paleartic;1;Offshore eolic;No;Yes;No;No;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+79;0,0647407243276321;0,020921236194525260;2018;United States;North America;Neartic;1;Eolic terrestrial;No;Yes;Yes;No;local;1;Biologgers;other;Short_scale;1;individuals;other;individuals
+82;0,0634643907545359;0,019881845297028900;2018;Ireland;Europe;Paleartic;1;Tidal power;Yes;Yes;Yes;Yes;local;1;Biologgers;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+85;0,0624583854535129;0,019231117735716674;2018;New Jersey y Massachusetts;North America;NA;1;Offshore eolic;Yes;Yes;Yes;No;local;1;No tracking;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+89;0,0597784691684599;0,034777328045434493;2015;Sweden;Europe;Paleartic;1;Eolic terrestrial;No;Yes;Yes;Yes;local;1;Biologgers;mountains;Multi_scale;1;individuals;mountains;individuals
+90;0,0772163282093905;-0,071173218548286496;2018;Finland;Europe;Paleartic;1;Eolic terrestrial;No;No;No;No;regional;1;Biologgers;oceans/coasts;Medium_scale;2;individuals;oceans/coasts;individuals
+93;0,0752405469820256;0,002224355925220152;2022;Wyoming;North America;Neartic;1;Eolic terrestrial;No;Yes;No;No;local;1;Biologgers;other;Large_scale;1;individuals;other;individuals
+100;0,0554574187314697;0,032656568618337267;2015;New Jersey y Massachusetts;North America;Neartic;1;Offshore eolic;Yes;Yes;No;No;local;1;No tracking;oceans/coasts;Large_scale;1;individuals;oceans/coasts;individuals
+101;0,0725980342916548;0,000440294219580394;2022;Spain;Europe;Paleartic;1;Eolic terrestrial;No;Yes;No;Yes;local;1;Biologgers;grasslands/shrublands/Savannahs;Short_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+102;0,0659611018957778;0,002830404379096192;2021;Sweeden;Europe;Paleartic;1;Eolic terrestrial;No;Yes;No;No;local;1;Biologgers;forests;Short_scale;1;individuals;forests;individuals
+106;0,0997415871279475;0,077949761996771227;2008;Denmark;Europe;Paleartic;1;Eolic terrestrial;No;Yes;No;Yes;local;1;No tracking;grasslands/shrublands/Savannahs;Short_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+107;0,0645169174706162;0,002226138133219300;2021;Scotland;Europe;Paleartic;1;Tidal power;No;Yes;Yes;Yes;local;1;Bioacustic;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+108;0,0329534028746096;0,076509156862091129;2016;Denmark;Europe;Paleartic;4;Offshore eolic;Yes;Yes;No;No;local;1;radar;oceans/coasts;Large_scale;1;individuals;oceans/coasts;individuals
+109;-0,1181265727896023;-0,073459905488103952;2021;Belgium;Europe;Paleartic;3;Offshore eolic;No;No;No;No;regional;2;Bioacustic;oceans/coasts;Large_scale;2;populations;oceans/coasts;populations
+113;-0,2055487817250295;-0,036799902429742945;2014;Mexico;North America;Neartic;2;Eolic terrestrial;Yes;No;Yes;Yes;regional;3;radar;mountains;Large_scale;2;species;mountains;species
+114;0,0319622890317234;0,051038509485501579;2018;United States;North America;Neartic;3;Eolic terrestrial;Yes;Yes;Yes;Yes;local;1;Biologgers;farmlands;Short_scale;1;individuals;farmlands;individuals
+115;-0,0390621825535003;0,010826468995625284;2020;Spain;Europe;Paleartic;1;Eolic terrestrial;No;Yes;No;No;local;2;Biologgers;other;Large_scale;1;populations;other;populations
+118;0,0414081233054072;0,058699828835588365;2014;Lesotho;South Africa;Afrotropical;2;Eolic terrestrial;No;No;No;No;local;1;Biologgers;mountains;Short_scale;1;individuals;mountains;individuals
+121;0,0520114467208684;0,041165493062336876;2013;Norway;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;No;No;local;1;Biologgers;oceans/coasts;Multi_scale;1;individuals;oceans/coasts;individuals
+122;0,0601509569238573;-0,079846631959571868;2020;Norway;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;Yes;Yes;regional;1;Biologgers;other;Short_scale;2;individuals;other;individuals
+123;-0,0422274781818431;0,050744453319213706;2013;Great Britain;Europe;Paleartic;1;Hydroelectric;Yes;Yes;No;Yes;local;2;Biologgers;freshwaters;Multi_scale;1;populations;freshwaters;populations
+124;0,0706424335185581;-0,087561072858968289;2022;Switzerland;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;No;No;regional;1;Biologgers;other;Short_scale;2;individuals;other;individuals
+125;-0,1879600483127364;0,173405100438407178;2010;Scotland;Europe;Paleartic;9;Offshore eolic;Yes;No;No;No;local;3;No tracking;oceans/coasts;Short_scale;1;species;oceans/coasts;species
+126;0,0485118237281224;0,011828576947027067;2018;Germany;Europe;Paleartic;1;Eolic terrestrial;No;Yes;No;No;local;1;Biologgers;grasslands/shrublands/Savannahs;Short_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+127;0,0545702183566222;0,179938981754267452;2009;The Netherlands;Europe;Paleartic;13;Eolic terrestrial;No;Yes;Yes;No;local;1;radar;farmlands;Multi_scale;1;individuals;farmlands;individuals
+128;0,0384433902487359;0,142918486657225285;2014;Italy;Europe;Paleartic;14;Eolic terrestrial;Yes;Yes;No;Yes;local;1;No tracking;mountains;Short_scale;1;individuals;mountains;individuals
+129;0,0467912884040397;0,027134414929300153;2015;South Africa;South Africa;Afrotropical;1;Eolic terrestrial;Yes;Yes;Yes;Yes;local;1;Biologgers;mountains;Multi_scale;1;individuals;mountains;individuals
+130;0,0675917026023410;-0,089147793959720001;2022;Belgiun;Europe;Paleartic;1;Offshore eolic;Yes;Yes;Yes;Yes;regional;1;Bioacustic;oceans/coasts;Short_scale;2;individuals;oceans/coasts;individuals
+132;0,0476853659476033;0,010353939676013340;2018;USA;North America;Neartic;1;Eolic terrestrial;No;No;No;No;local;1;Biologgers;farmlands;Short_scale;1;individuals;farmlands;individuals
+133;0,0526221393937772;0,000779145305389485;2020;New Zealand;Oceanian;Australian;1;Hydroelectric;No;Yes;Yes;Yes;local;1;Bioacustic;freshwaters;Multi_scale;1;individuals;freshwaters;individuals
+138;0,0554494803867331;-0,004034059184888449;2021;Spain;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;No;Yes;local;1;Biologgers;grasslands/shrublands/Savannahs;Short_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+141;0,0500187974726439;-0,000501414811595226;2020;UK;Europe;Paleartic;1;Offshore eolic;Yes;No;No;No;local;1;Bioacustic;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+142;0,0232618143769238;0,103073911952995881;2017;France;Europe;Paleartic;8;Hydroelectric;No;Yes;No;No;local;1;Bioacustic;freshwaters;Short_scale;1;individuals;freshwaters;individuals
+147;-0,2762597730288217;0,113404646379261800;2021;Germany;Europe;Paleartic;9;Eolic terrestrial;Yes;No;No;Yes;local;4;Other;farmlands;Short_scale;1;communities;farmlands;communities
+148;0,0443146621830890;0,006385274586903730;2018;Sweden;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;Yes;No;local;1;Biologgers;forests;Short_scale;1;individuals;forests;individuals
+149;0,0192325763456656;0,073876175346360706;2018;UK;Europe;Paleartic;5;Tidal power;Yes;Yes;No;Yes;local;1;Bioacustic;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+151;-0,3132617127432786;0,237407204512138703;2009;USA;North America;Neartic;36;Eolic terrestrial;Yes;Yes;Yes;No;local;4;Other;mountains;Short_scale;1;communities;mountains;communities
+152;0,1161968183674226;0,092486344011325730;2005;France;Europe;Paleartic;1;Hydroelectric;Yes;Yes;No;No;local;1;Biologgers;freshwaters;Large_scale;1;individuals;freshwaters;individuals
+157;0,0136035865522461;0,025434479678414206;2021;USA;North America;Neartic;3;Eolic terrestrial;Yes;Yes;No;No;local;1;Other;grasslands/shrublands/Savannahs;Multi_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+160;-0,0661508993107448;-0,086270076014133890;2017;North Sea;Europe;Paleartic;1;Offshore eolic;Yes;Yes;No;Yes;regional;2;Other;oceans/coasts;Multi_scale;2;populations;oceans/coasts;populations
+162;0,0566462796031866;-0,095304862829134848;2013;Canada;North America;Neartic;1;Hydroelectric;Yes;Yes;Yes;Yes;regional;1;Biologgers;freshwaters;Multi_scale;2;individuals;freshwaters;individuals
+163;0,1278978939789115;-0,256815118464386649;2014;UK;Europe;Paleartic;2;Hydroelectric;No;No;No;No;global;1;Other;freshwaters;Multi_scale;4;individuals;freshwaters;individuals
+169;0,1181916409277790;0,092059586590851242;2005;USA;North America;Neartic;1;Eolic terrestrial;Yes;Yes;Yes;Yes;local;1;Other;farmlands;Short_scale;1;individuals;farmlands;individuals
+173;0,0333174003425757;0,021012657419678903;2014;Canada;North America;Neartic;1;Eolic terrestrial;Yes;Yes;Yes;Yes;local;1;Other;mountains;Large_scale;1;individuals;mountains;individuals
+179;-0,2591940491140719;0,114138725178395864;2017;USA;North America;Neartic;6;Eolic terrestrial;No;No;No;Yes;local;4;Bioacustic;farmlands;Short_scale;1;communities;farmlands;communities
+181;0,0517896638190808;-0,021222809668739802;2022;Germany;Europe;Paleartic;1;Eolic terrestrial;Yes;Yes;No;No;local;1;Biologgers;farmlands;Short_scale;1;individuals;farmlands;individuals
+182;-0,0697788490250902;0,099628748030789735;2007;Netherlands;Europe;Paleartic;1;Hydroelectric;Yes;No;No;No;local;2;Other;freshwaters;Large_scale;1;populations;freshwaters;populations
+185;0,0505884122007478;-0,022861827643410607;2022;France;Europe;Paleartic;1;Tidal power;No;Yes;Yes;No;local;1;Bioacustic;freshwaters;Multi_scale;1;individuals;freshwaters;individuals
+186;-0,1897216104294996;-0,199082107326712249;2020;some;Europe;Paleartic;1;Hydroelectric;Yes;Yes;Yes;No;continental;3;Biologgers;freshwaters;Large_scale;3;species;freshwaters;species
+187;-0,2918126223676155;-0,158548800265247647;2021;Switzerland;Europe;Paleartic;92;Eolic terrestrial;No;Yes;No;Yes;regional;2;Biologgers;mountains;Short_scale;2;populations;mountains;populations
+188;-0,1472063189339804;0,041712190162636990;2017;Brazil;South America;Neotropical;2;Hydroelectric;No;Yes;No;No;local;3;Bioacustic;freshwaters;Short_scale;1;species;freshwaters;species
+200;0,0263672982325069;0,006632930769837223;2014;USA;North America;Neartic;1;Hydroelectric;Yes;Yes;Yes;Yes;local;1;Biologgers;freshwaters;Large_scale;1;individuals;freshwaters;individuals
+202;-0,2116693285676910;-0,097340393899680494;2020;Portugal;Europe;Paleartic;3;Hydroelectric;Yes;Yes;No;No;regional;3;Other;freshwaters;Large_scale;2;species;freshwaters;species
+203;0,0406537238348842;-0,105835395735371235;2013;Sweden;Europe;Paleartic;1;Hydroelectric;Yes;No;Yes;No;regional;1;Biologgers;freshwaters;Multi_scale;2;individuals;freshwaters;individuals
+206;0,0425347507018404;-0,024148342615417800;2021;Belgium;Europe;Paleartic;1;Hydroelectric;Yes;Yes;Yes;Yes;local;1;Bioacustic;freshwaters;Large_scale;1;individuals;freshwaters;individuals
+207;-0,0505881544495124;-0,016881322751481506;2019;Brazil;South America;Neotropical;1;Hydroelectric;Yes;Yes;No;No;local;2;Other;other;Short_scale;1;populations;other;populations
+208;0,0405078840481308;0,088227522301938754;2011;Canada;North America;Neartic;2;Eolic terrestrial;No;No;No;No;local;1;Bioacustic;farmlands;Multi_scale;1;individuals;farmlands;individuals
+212;0,0138478797455839;0,070199908607923217;2014;Canada;North America;Neartic;3;Eolic terrestrial;Yes;Yes;Yes;Yes;local;1;Bioacustic;other;Multi_scale;1;individuals;other;individuals
+216;0,0417966215577018;-0,027769050091791730;2021;Scotland;Europe;Paleartic;1;Offshore eolic;Yes;Yes;No;No;local;1;Bioacustic;oceans/coasts;Short_scale;1;individuals;oceans/coasts;individuals
+218;0,0343196119999415;-0,018781533879790493;2019;Norway;Europe;Paleartic;1;Hydroelectric;No;No;Yes;Yes;local;1;Marks;freshwaters;Multi_scale;1;individuals;freshwaters;individuals
+225;-0,1090251455666182;-0,109207609339635733;2014;USA;North Africa;Neartic;2;Eolic terrestrial;Yes;Yes;No;No;regional;2;Isotopes;forests;Multi_scale;2;populations;forests;populations
+226;0,0463242182703769;-0,036571602420024489;2022;USA;North America;Neartic;1;Eolic terrestrial;No;Yes;No;No;local;1;Biologgers;farmlands;Large_scale;1;individuals;farmlands;individuals
+227;-0,0708568961779798;-0,109179398054864679;2018;Finland;Europe;Paleartic;1;Eolic terrestrial;No;No;No;No;regional;2;Biologgers;other;Medium_scale;2;populations;other;populations
+231;0,0377115343740907;-0,118872147284332860;2022;Florida;North America;Neartic;1;Solar and termosolar;No;Yes;No;No;regional;1;Biologgers;other;Multi_scale;2;individuals;other;individuals
+232;0,0455976871652821;-0,038903719253999852;2022;United States;North America;Neartic;1;Solar and termosolar;Yes;Yes;Yes;Yes;local;1;Other;grasslands/shrublands/Savannahs;Short_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+236;0,0236622607608839;-0,013089063912211643;2015;North Carolina and Georgia;North America;Neartic;1;Offshore eolic;Yes;Yes;Yes;No;local;1;Bioacustic;oceans/coasts;Multi_scale;1;individuals;oceans/coasts;individuals
+241;0,0252291654296721;-0,018510431640412061;2016;USA;North America;Neartic;1;Eolic terrestrial;No;No;No;Yes;local;1;Biologgers;grasslands/shrublands/Savannahs;Short_scale;1;individuals;grasslands/shrublands/Savannahs;individuals
+244;0,0362756971806327;-0,033422410866653228;2020;South Africa;South Africa;Afrotropical;1;Eolic terrestrial;No;No;No;No;local;1;radar;farmlands;Short_scale;1;individuals;farmlands;individuals
+255;0,0444319059023044;-0,254905999136524342;2012;Germany;Europe;Paleartic;4;Eolic terrestrial;No;Yes;Yes;No;continental;1;Isotopes;other;Multi_scale;3;individuals;other;individuals
+257;0,0274125298515144;-0,115000809119387842;2016;Russia;Europe;Paleartic;1;Hydroelectric;Yes;Yes;Yes;Yes;regional;1;Biologgers;freshwaters;Large_scale;2;individuals;freshwaters;individuals
+260;0,0117952461733323;-0,136116723970932330;2014;Norway;Europe;Paleartic;2;Hydroelectric;Yes;Yes;No;No;regional;1;Other;freshwaters;Multi_scale;2;individuals;freshwaters;individuals
+262;0,0310501280667104;-0,033057323216943019;2018;Spain;Europe;Paleartic;1;Hydroelectric;Yes;Yes;Yes;Yes;local;1;Biologgers;freshwaters;Short_scale;1;individuals;freshwaters;individuals
+263;-0,0696340444764966;-0,045258380902026427;2022;Czech Republic;Europe;Paleartic;1;Hydroelectric;No;No;Yes;No;local;2;Biologgers;freshwaters;Multi_scale;1;populations;freshwaters;populations
+264;-0,6141086026500590;-0,077998006622126512;2021;Brazil;South America;Neotropical;191;Hydroelectric;No;Yes;No;No;regional;4;No tracking;freshwaters;Large_scale;2;communities;freshwaters;communities
+265;0,0313818496552746;-0,126179828930889498;2021;Brazil;South America;Neotropical;1;Hydroelectric;Yes;Yes;Yes;No;regional;1;Other;freshwaters;Multi_scale;2;individuals;freshwaters;individuals
+267;0,0164725951037355;-0,031551283854286308;2013;The Netherlands;Europe;Paleartic;1;Hydroelectric;Yes;Yes;Yes;No;local;1;Other;freshwaters;Large_scale;1;individuals;freshwaters;individuals
+268;-0,0862720589487215;0,000189854216546507;2012;Canada;North America;Neartic;1;Other;Yes;Yes;No;No;local;2;Biologgers;forests;Short_scale;1;populations;forests;populations
+270;0,0356366553701814;-0,128594999063408461;2014;United States;North America;Neartic;1;Hydroelectric;Yes;Yes;No;No;regional;1;No tracking;freshwaters;Multi_scale;2;individuals;freshwaters;individuals
+271;0,0352027071149736;-0,043169080879216254;2020;Germany;Europe;Paleartic;1;Hydroelectric;Yes;Yes;Yes;Yes;local;1;Other;freshwaters;Multi_scale;1;individuals;freshwaters;individuals
+273;0,0225608147151686;0,294903745752271573;2015;Brazil;South America;Neotropical;81;Hydroelectric;No;Yes;No;No;local;1;No tracking;freshwaters;Multi_scale;1;individuals;freshwaters;individuals
+274;0,0397977614270995;-0,048150581017534520;2021;Canada;North America;Neartic;1;Hydroelectric;Yes;Yes;No;No;local;1;Biologgers;freshwaters;Multi_scale;1;individuals;freshwaters;individuals
+275;-0,0797345028673454;-0,129742257022449042;2017;China;East Asia;Sino-Japanese;1;Hydroelectric;No;Yes;No;No;regional;2;No tracking;freshwaters;Medium_scale;2;populations;freshwaters;populations
+279;-0,0753052090769515;-0,048831159149164700;2022;France;Europe;Paleartic;1;Hydroelectric;Yes;No;No;No;local;2;Bioacustic;freshwaters;Large_scale;1;populations;freshwaters;populations
+284;-0,0838248974892154;-0,297710055557555586;1997;Canada;North America;Neartic;1;Hydroelectric;Yes;Yes;Yes;Yes;regional;2;Biologgers;freshwaters;Multi_scale;2;populations;freshwaters;populations

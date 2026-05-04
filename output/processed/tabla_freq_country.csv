@@ -1,0 +1,71 @@
+wallace_bioregion;country;energy;n
+Afrotropical;Lesotho;Eolic terrestrial;1
+Afrotropical;South Africa;Eolic terrestrial;3
+Australian;Australia;Eolic terrestrial;1
+Australian;New Zealand;Hydroelectric;1
+Neartic;Canada;Eolic terrestrial;3
+Neartic;Canada;Hydroelectric;3
+Neartic;Canada;Tidal power;1
+Neartic;Canada;Other;1
+Neartic;Florida;Solar and termosolar;1
+Neartic;Mexico;Eolic terrestrial;1
+Neartic;New Jersey y Massachusetts;Offshore eolic;1
+Neartic;North Carolina and Georgia;Offshore eolic;1
+Neartic;Steuben Maine;Offshore eolic;1
+Neartic;United States;Eolic terrestrial;4
+Neartic;United States;Hydroelectric;1
+Neartic;United States;Solar and termosolar;1
+Neartic;USA;Eolic terrestrial;9
+Neartic;USA;Hydroelectric;1
+Neartic;USA;Offshore eolic;1
+Neartic;Wyoming;Eolic terrestrial;1
+Neotropical;Brazil;Hydroelectric;5
+Paleartic;Belgium;Hydroelectric;1
+Paleartic;Belgium;Offshore eolic;2
+Paleartic;Belgiun;Offshore eolic;1
+Paleartic;Czech Republic;Hydroelectric;1
+Paleartic;Denmark;Eolic terrestrial;2
+Paleartic;Denmark;Offshore eolic;2
+Paleartic;England;Hydroelectric;1
+Paleartic;England;Offshore eolic;1
+Paleartic;Finland;Eolic terrestrial;2
+Paleartic;France;Hydroelectric;3
+Paleartic;France;Tidal power;1
+Paleartic;Germany;Eolic terrestrial;5
+Paleartic;Germany;Hydroelectric;1
+Paleartic;Germany;Offshore eolic;1
+Paleartic;Germany, Denmark;Offshore eolic;1
+Paleartic;Great Britain;Hydroelectric;1
+Paleartic;Ireland;Tidal power;1
+Paleartic;Italy;Eolic terrestrial;1
+Paleartic;Netherlands;Hydroelectric;1
+Paleartic;North Sea;Offshore eolic;1
+Paleartic;Norway;Eolic terrestrial;2
+Paleartic;Norway;Hydroelectric;2
+Paleartic;Portugal;Hydroelectric;1
+Paleartic;Russia;Hydroelectric;1
+Paleartic;Scotland;Eolic terrestrial;1
+Paleartic;Scotland;Offshore eolic;3
+Paleartic;Scotland;Tidal power;4
+Paleartic;Scotland/UK;Tidal power;1
+Paleartic;some;Hydroelectric;1
+Paleartic;Spain;Eolic terrestrial;3
+Paleartic;Spain;Hydroelectric;1
+Paleartic;Sweden;Eolic terrestrial;2
+Paleartic;Sweden;Hydroelectric;1
+Paleartic;Sweeden;Eolic terrestrial;1
+Paleartic;Switzerland;Eolic terrestrial;3
+Paleartic;The Netherlands;Eolic terrestrial;1
+Paleartic;The Netherlands;Hydroelectric;1
+Paleartic;UK;Eolic terrestrial;1
+Paleartic;UK;Hydroelectric;1
+Paleartic;UK;Offshore eolic;2
+Paleartic;UK;Tidal power;2
+Paleartic;United Kindom;Offshore eolic;1
+Paleartic;United Kingdom;Hydroelectric;1
+Paleartic;United Kingdom;Offshore eolic;3
+Paleartic;United Kingdom;Tidal power;1
+Paleartic;United Kingdon (Scotland);Eolic terrestrial;1
+Sino-Japanese;China;Hydroelectric;1
+Sino-Japanese;Japan;Eolic terrestrial;1
+Sino-Japanese;Japan;Offshore eolic;1

@@ -1,0 +1,97 @@
+"tech","component","bio","N"
+"Wind (onshore)","How","communities",4
+"Wind (onshore)","How","individuals",25
+"Wind (onshore)","How","populations",3
+"Wind (onshore)","How","species",2
+"Wind (onshore)","When","communities",2
+"Wind (onshore)","When","individuals",16
+"Wind (onshore)","When","populations",0
+"Wind (onshore)","When","species",1
+"Wind (onshore)","Where","communities",4
+"Wind (onshore)","Where","individuals",33
+"Wind (onshore)","Where","populations",4
+"Wind (onshore)","Where","species",0
+"Wind (onshore)","Why","communities",2
+"Wind (onshore)","Why","individuals",17
+"Wind (onshore)","Why","populations",2
+"Wind (onshore)","Why","species",1
+"Wind (offshore)","How","communities",0
+"Wind (offshore)","How","individuals",13
+"Wind (offshore)","How","populations",2
+"Wind (offshore)","How","species",2
+"Wind (offshore)","When","communities",0
+"Wind (offshore)","When","individuals",6
+"Wind (offshore)","When","populations",0
+"Wind (offshore)","When","species",0
+"Wind (offshore)","Where","communities",0
+"Wind (offshore)","Where","individuals",14
+"Wind (offshore)","Where","populations",3
+"Wind (offshore)","Where","species",0
+"Wind (offshore)","Why","communities",0
+"Wind (offshore)","Why","individuals",3
+"Wind (offshore)","Why","populations",1
+"Wind (offshore)","Why","species",0
+"Hydropower","How","communities",1
+"Hydropower","How","individuals",14
+"Hydropower","How","populations",5
+"Hydropower","How","species",2
+"Hydropower","When","communities",0
+"Hydropower","When","individuals",11
+"Hydropower","When","populations",2
+"Hydropower","When","species",1
+"Hydropower","Where","communities",2
+"Hydropower","Where","individuals",16
+"Hydropower","Where","populations",4
+"Hydropower","Where","species",4
+"Hydropower","Why","communities",0
+"Hydropower","Why","individuals",9
+"Hydropower","Why","populations",2
+"Hydropower","Why","species",0
+"Solar","How","communities",0
+"Solar","How","individuals",1
+"Solar","How","populations",1
+"Solar","How","species",0
+"Solar","When","communities",0
+"Solar","When","individuals",1
+"Solar","When","populations",0
+"Solar","When","species",0
+"Solar","Where","communities",0
+"Solar","Where","individuals",2
+"Solar","Where","populations",1
+"Solar","Where","species",0
+"Solar","Why","communities",0
+"Solar","Why","individuals",1
+"Solar","Why","populations",1
+"Solar","Why","species",0
+"Tidal","How","communities",1
+"Tidal","How","individuals",4
+"Tidal","How","populations",0
+"Tidal","How","species",1
+"Tidal","When","communities",0
+"Tidal","When","individuals",4
+"Tidal","When","populations",0
+"Tidal","When","species",0
+"Tidal","Where","communities",1
+"Tidal","Where","individuals",7
+"Tidal","Where","populations",0
+"Tidal","Where","species",0
+"Tidal","Why","communities",0
+"Tidal","Why","individuals",5
+"Tidal","Why","populations",0
+"Tidal","Why","species",0
+"Other","How","communities",0
+"Other","How","individuals",0
+"Other","How","populations",1
+"Other","How","species",0
+"Other","When","communities",0
+"Other","When","individuals",0
+"Other","When","populations",0
+"Other","When","species",0
+"Other","Where","communities",0
+"Other","Where","individuals",0
+"Other","Where","populations",1
+"Other","Where","species",0
+"Other","Why","communities",0
+"Other","Why","individuals",0
+"Other","Why","populations",0
+"Other","Why","species",0

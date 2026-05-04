@@ -1,0 +1,46 @@
+Data licence — Creative Commons Attribution 4.0 International (CC BY 4.0)
+=======================================================================
+
+The data files in the data/ directory of this repository are released under
+the Creative Commons Attribution 4.0 International licence.
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format.
+  - Adapt — remix, transform, and build upon the material for any purpose,
+    even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the
+    licence, and indicate if changes were made. You may do so in any reasonable
+    manner, but not in any way that suggests the licensor endorses you or your
+    use.
+
+The full legal code is available at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested citation:
+  Arrondo E., Fandos G., Tucker M.A., Gallagher C.A., Delgado M.M., Scacco M.,
+  de los Reyes J.M., Payo-Payo A., Morant J., da Silva J.P., Assandri G.,
+  Börger L., Oltra J., Fernández-Gómez L., Ortega Z., Bota G., Gómez-Catasus J.,
+  Tena E., García-Alfonso M. & Pérez-García J.M. (2026). Data and analysis
+  scripts for "Impacts of renewable energy facilities on animal movement: A
+  global integrative review". Zenodo. https://doi.org/[Zenodo DOI to be
+  assigned at release].
+
+Third-party data
+----------------
+The following files are redistributed from external sources under their own
+CC BY 4.0 licences. The original sources must be cited if these files are
+reused:
+
+  data/gdp_per_capita_maddison.csv
+    Source: Maddison Project Database, version 2020 (Bolt & van Zanden, 2020),
+    via Our World in Data (https://ourworldindata.org/).
+
+  data/renewable_share_energy.csv
+    Source: Our World in Data, "Share of primary energy from renewables"
+    (https://ourworldindata.org/renewable-energy), based on the Energy Institute
+    Statistical Review of World Energy and Ember.
+
+The systematic-review table (data/review_table.csv) is original to this
+project and is released under CC BY 4.0 as part of the present work.

@@ -1,0 +1,33 @@
+# R session and project files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# R headless run artifacts
+Rplots.pdf
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+
+# Temporary reference files used during repo bootstrap
+data/.df_plot_corr_reference.csv
+data/.tabla_freq_country_corr_reference.csv
+
+# Large intermediate outputs (regeneratable from R/ scripts)
+output/processed/*.tif
+output/processed/*.tiff
+
+# Manuscript binaries (not part of the public repo per agreed scope)
+*.docx
+*.pptx
+
+# renv (not in use, but ignore if added later)
+renv/library/
+renv/staging/
