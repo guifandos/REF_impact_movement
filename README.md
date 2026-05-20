@@ -2,7 +2,7 @@
 
 [![License: MIT (code)](https://img.shields.io/badge/code%20licence-MIT-blue.svg)](LICENSE)
 [![License: CC BY 4.0 (data)](https://img.shields.io/badge/data%20licence-CC%20BY%204.0-lightgrey.svg)](LICENSE-data)
-<!-- Zenodo badge will be inserted here once the first release is archived. -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20311064.svg)](https://doi.org/10.5281/zenodo.20311064)
 
 This repository contains the data and the R analysis pipeline supporting:
 
