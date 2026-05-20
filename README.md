@@ -11,7 +11,7 @@ This repository contains the data and the R analysis pipeline supporting:
 > Börger L., Oltra J., Fernández-Gómez L., Ortega Z., Bota G., Gómez-Catasus J.,
 > Tena E., García-Alfonso M. & Pérez-García J.M. (2026).
 > *Impacts of renewable energy facilities on animal movement: A global
-> integrative review.* People and Nature.
+> integrative review.* 
 
 The pipeline reproduces the main figure (matrix of REF × movement components),
 the world map of study density vs. renewable-energy share, the waffle plots of
