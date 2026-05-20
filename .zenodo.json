@@ -32,10 +32,12 @@
     },
     {
       "name": "Scacco, Martina",
+      "affiliation": "Dynamic Macroecology, Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Birmensdorf, Switzerland",
       "orcid": "0000-0003-4821-4051"
     },
     {
       "name": "de los Reyes, José Manuel",
+      "affiliation": "iMARES Research Group, Institut de Ciències del Mar (ICM-CSIC), Barcelona, Spain; CORY's Investigación y Conservación de la Biodiversidad, Barcelona, Spain",
       "orcid": "0000-0001-8311-3235"
     },
     {
@@ -60,16 +62,17 @@
     },
     {
       "name": "Börger, Luca",
-      "affiliation": "Department of Biosciences, Swansea University, Swansea, United Kingdom",
+      "affiliation": "Department of Biosciences, Swansea University, Swansea SA2 8PP, United Kingdom",
       "orcid": "0000-0001-8763-5997"
     },
     {
       "name": "Oltra, Juan",
+      "affiliation": "Department of Physical, Chemical and Natural Systems, Universidad Pablo de Olavide, ES-41013 Seville, Spain",
       "orcid": "0009-0006-6172-3255"
     },
     {
       "name": "Fernández-Gómez, Lola",
-      "affiliation": "Department of Applied Biology, Universidad Miguel Hernández de Elche, Elche, Spain",
+      "affiliation": "Department of Applied Biology, Universidad Miguel Hernández de Elche, 03202 Elche, Spain",
       "orcid": "0000-0001-5128-4646"
     },
     {
@@ -79,11 +82,12 @@
     },
     {
       "name": "Bota, Gerard",
+      "affiliation": "Biodiversity Management and Conservation Programme, Forest Science and Technology Centre of Catalonia, CTFC, Lleida, Spain",
       "orcid": "0000-0001-9020-7272"
     },
     {
       "name": "Gómez-Catasús, Julia",
-      "affiliation": "Department of Ecology, Universidad Autónoma de Madrid, Madrid, Spain; Centro de Investigación en Biodiversidad y Cambio Global, CIBC-UAM, Universidad Autónoma de Madrid, Madrid, Spain",
+      "affiliation": "Department of Ecology, Universidad Autónoma de Madrid, 28049 Madrid, Spain; Centro de Investigación en Biodiversidad y Cambio Global, CIBC-UAM, Universidad Autónoma de Madrid, 28049 Madrid, Spain",
       "orcid": "0000-0001-8949-5318"
     },
     {
@@ -93,7 +97,7 @@
     },
     {
       "name": "García-Alfonso, Marina",
-      "affiliation": "Department of Conservation Biology and Global Change, Estación Biológica de Doñana (CSIC), Seville, Spain",
+      "affiliation": "Department of Conservation Biology and Global Change, Estación Biológica de Doñana (CSIC), C/Américo Vespucio 26, 41092 Seville, Spain",
       "orcid": "0000-0003-4953-7207"
     },
     {
@@ -103,7 +107,7 @@
     },
     {
       "name": "Pérez-García, Juan Manuel",
-      "affiliation": "Ecology Area, Department of Applied Biology, Universidad Miguel Hernández de Elche, Elche, Spain",
+      "affiliation": "Department of Applied Biology, Universidad Miguel Hernández de Elche, 03202 Elche, Spain",
       "orcid": "0000-0002-1191-0187"
     }
   ],
