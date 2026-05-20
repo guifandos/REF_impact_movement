@@ -2,16 +2,18 @@
 
 [![License: MIT (code)](https://img.shields.io/badge/code%20licence-MIT-blue.svg)](LICENSE)
 [![License: CC BY 4.0 (data)](https://img.shields.io/badge/data%20licence-CC%20BY%204.0-lightgrey.svg)](LICENSE-data)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20311064.svg)](https://doi.org/10.5281/zenodo.20311064)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20311063.svg)](https://doi.org/10.5281/zenodo.20311063)
 
 This repository contains the data and the R analysis pipeline supporting:
 
-> Arrondo E., Fandos G., Tucker M.A., Gallagher C.A., Delgado M.M., Scacco M.,
+> Arrondo E.†, Fandos G.†, Tucker M.A., Gallagher C.A., Delgado M.M., Scacco M.,
 > de los Reyes J.M., Payo-Payo A., Morant J., da Silva J.P., Assandri G.,
-> Börger L., Oltra J., Fernández-Gómez L., Ortega Z., Bota G., Gómez-Catasus J.,
-> Tena E., García-Alfonso M. & Pérez-García J.M. (2026).
+> Börger L., Oltra J., Fernández-Gómez L., Ortega Z., Bota G., Gómez-Catasús J.,
+> Tena E., García-Alfonso M., Giroux A. & Pérez-García J.M. (2026).
 > *Impacts of renewable energy facilities on animal movement: A global
-> integrative review.* 
+> integrative review.*
+>
+> † E. Arrondo and G. Fandos contributed equally to this work.
 
 The pipeline reproduces the main figure (matrix of REF × movement components),
 the world map of study density vs. renewable-energy share, the waffle plots of
@@ -108,8 +110,14 @@ the published figures are listed in `sessionInfo.txt`.
 ## Citation
 
 If you use this code or data, please cite both the manuscript and the
-archived release of this repository (DOI to be assigned at the first Zenodo
-release). See `CITATION.cff` for machine-readable metadata.
+archived release of this repository:
+
+- Concept DOI (always resolves to the latest version):
+  https://doi.org/10.5281/zenodo.20311063
+- This specific version (v1.0.1):
+  https://doi.org/10.5281/zenodo.20311943
+
+See `CITATION.cff` for machine-readable metadata.
 
 ## Licence
 
