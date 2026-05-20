@@ -17,7 +17,8 @@
     },
     {
       "name": "Tucker, Marlee A.",
-      "affiliation": "Department of Environmental Science, Radboud Institute of Biological and Environmental Sciences, Radboud University, Nijmegen, the Netherlands"
+      "affiliation": "Department of Environmental Science, Radboud Institute of Biological and Environmental Sciences, Radboud University, Nijmegen, the Netherlands",
+      "orcid": "0000-0001-7535-3431"
     },
     {
       "name": "Gallagher, Cara A.",
@@ -30,7 +31,8 @@
       "orcid": "0000-0002-3009-738X"
     },
     {
-      "name": "Scacco, Martina"
+      "name": "Scacco, Martina",
+      "orcid": "0000-0003-4821-4051"
     },
     {
       "name": "de los Reyes, José Manuel"
@@ -42,15 +44,18 @@
     },
     {
       "name": "Morant, Jon",
-      "affiliation": "Department of Zoology and Animal Cellular Biology, University of the Basque Country, Álava, Spain; School of Biology and Environmental Science, University College Dublin, Dublin, Ireland"
+      "affiliation": "Department of Zoology and Animal Cellular Biology, University of the Basque Country, Álava, Spain; School of Biology and Environmental Science, University College Dublin, Dublin, Ireland",
+      "orcid": "0000-0001-5702-2348"
     },
     {
       "name": "da Silva, João Paulo",
-      "affiliation": "CIBIO, Centro de Investigação em Biodiversidade e Recursos Genéticos, InBIO Laboratório Associado, Universidade do Porto, Vairão, Portugal; BIOPOLIS Program in Genomics, Biodiversity and Land Planning, CIBIO, Vairão, Portugal"
+      "affiliation": "CIBIO, Centro de Investigação em Biodiversidade e Recursos Genéticos, InBIO Laboratório Associado, Universidade do Porto, Vairão, Portugal; BIOPOLIS Program in Genomics, Biodiversity and Land Planning, CIBIO, Vairão, Portugal",
+      "orcid": "0000-0002-4352-1004"
     },
     {
       "name": "Assandri, Giacomo",
-      "affiliation": "Department of Science and Technological Innovation, University of Eastern Piedmont \"Amedeo Avogadro\", Alessandria, Italy"
+      "affiliation": "Department of Science and Technological Innovation, University of Eastern Piedmont \"Amedeo Avogadro\", Alessandria, Italy",
+      "orcid": "0000-0001-5161-5353"
     },
     {
       "name": "Börger, Luca",
@@ -58,7 +63,8 @@
       "orcid": "0000-0001-8763-5997"
     },
     {
-      "name": "Oltra, Juan"
+      "name": "Oltra, Juan",
+      "orcid": "0009-0006-6172-3255"
     },
     {
       "name": "Fernández-Gómez, Lola",
@@ -71,11 +77,13 @@
       "orcid": "0000-0002-8167-1652"
     },
     {
-      "name": "Bota, Gerard"
+      "name": "Bota, Gerard",
+      "orcid": "0000-0001-9020-7272"
     },
     {
-      "name": "Gómez-Catasus, Julia",
-      "affiliation": "Department of Ecology, Universidad Autónoma de Madrid, Madrid, Spain; Centro de Investigación en Biodiversidad y Cambio Global, CIBC-UAM, Universidad Autónoma de Madrid, Madrid, Spain"
+      "name": "Gómez-Catasús, Julia",
+      "affiliation": "Department of Ecology, Universidad Autónoma de Madrid, Madrid, Spain; Centro de Investigación en Biodiversidad y Cambio Global, CIBC-UAM, Universidad Autónoma de Madrid, Madrid, Spain",
+      "orcid": "0000-0001-8949-5318"
     },
     {
       "name": "Tena, Elena",
@@ -86,6 +94,10 @@
       "name": "García-Alfonso, Marina",
       "affiliation": "Department of Conservation Biology and Global Change, Estación Biológica de Doñana (CSIC), Seville, Spain",
       "orcid": "0000-0003-4953-7207"
+    },
+    {
+      "name": "Giroux, Aline",
+      "orcid": "0000-0001-6375-6954"
     },
     {
       "name": "Pérez-García, Juan Manuel",
@@ -107,7 +119,6 @@
     "biodiversity",
     "conservation"
   ],
-  "communities": [],
   "related_identifiers": [
     {
       "identifier": "https://github.com/guifandos/REF_impact_movement",
