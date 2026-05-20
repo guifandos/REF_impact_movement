@@ -1,3 +1,18 @@
+# -----------------------------------------------------------------------------
+# 05_waffle.R
+# Purpose: Generate the waffle plots used to summarise the distribution of
+#          papers across movement components, organisational levels and
+#          temporal trends. This script re-reads review_table.csv and
+#          rebuilds the cleaned data frame internally, so it can be run
+#          independently of 01_analysis_main.R.
+# Inputs:  data/review_table.csv
+# Outputs: output/figures/waffle_components.pdf,
+#          output/figures/waffle_temporal.pdf
+# Author:  Arrondo E., Fandos G. and co-authors
+# Date:    2026
+# R:       4.5.3. See ../sessionInfo.txt for the exact package versions.
+# -----------------------------------------------------------------------------
+
 library(tidyverse)
 library(readxl)
 library(fastDummies)

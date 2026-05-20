@@ -1,3 +1,17 @@
+# -----------------------------------------------------------------------------
+# 04_figure_matrix.R
+# Purpose: Build the main figure of the manuscript: the matrix of paper
+#          counts by renewable-energy technology (rows) and movement
+#          component (how / where / when / why; columns).
+# Inputs:  papers_final (in memory; must be created by sourcing
+#          01_analysis_main.R in the same R session)
+# Outputs: output/figures/Figure_matrix_REF_movement_counts.png,
+#          output/figures/Figure_matrix_REF_movement_counts.tiff
+# Author:  Arrondo E., Fandos G. and co-authors
+# Date:    2026
+# R:       4.5.3. See ../sessionInfo.txt for the exact package versions.
+# -----------------------------------------------------------------------------
+
 library(tidyverse)
 library(forcats)
 

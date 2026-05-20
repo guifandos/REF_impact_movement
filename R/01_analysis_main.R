@@ -1,3 +1,22 @@
+# -----------------------------------------------------------------------------
+# 01_analysis_main.R
+# Purpose: Load and clean the systematic-review table (review_table.csv),
+#          standardise variables, recode 'Doubt' values to 'Yes' in the
+#          how/where/why/when columns, build the canonical analysis tibble
+#          papers_final, and run the NMDS ordination used in exploratory
+#          plots. This script must be sourced before scripts 03 and 04.
+# Inputs:  data/review_table.csv
+# Outputs: output/processed/papers_reduced.csv,
+#          output/processed/unique_values.csv,
+#          output/processed/df_plot.csv,
+#          output/processed/tabla_freq_country.csv,
+#          papers_final (in the R session, used by downstream scripts)
+# Author:  Arrondo E., Fandos G. and co-authors (Arrondo et al. 2026)
+# Date:    2026
+# R:       4.5.3. See ../sessionInfo.txt for the exact package versions
+#          used to generate the published figures.
+# -----------------------------------------------------------------------------
+
 library(tidyverse)
 library(readxl)
 library(fastDummies)

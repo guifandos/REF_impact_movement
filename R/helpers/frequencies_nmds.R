@@ -1,7 +1,21 @@
-df_ord = papers_final %>% 
-  #dplyr::select(id_paper, year_publication, number_sp, organizational_lvl, spatial_ext) %>% 
-  dplyr::select(id_paper, year_publication, number_sp, organizational_lvl, spatial_ext, how, where, when, why) %>% 
-  # dplyr::select(doi, dynamic:process_interactions, species_count, organizational_lvl, spatial_ext, spatial_res) %>% 
+# -----------------------------------------------------------------------------
+# helpers/frequencies_nmds.R
+# Purpose: Auxiliary exploration. Rebuilds df_ord and re-runs the NMDS used
+#          during exploratory analysis, then tabulates frequencies of
+#          movement components by renewable-energy technology. Not part of
+#          the figures published in the manuscript.
+# Inputs:  papers_final and helperFunction (in memory; created by sourcing
+#          ../01_analysis_main.R in the same R session)
+# Outputs: none persisted (interactive use)
+# Author:  Arrondo E., Fandos G. and co-authors
+# Date:    2026
+# R:       4.5.3. See ../../sessionInfo.txt for the exact package versions.
+# -----------------------------------------------------------------------------
+
+df_ord = papers_final %>%
+  #dplyr::select(id_paper, year_publication, number_sp, organizational_lvl, spatial_ext) %>%
+  dplyr::select(id_paper, year_publication, number_sp, organizational_lvl, spatial_ext, how, where, when, why) %>%
+  # dplyr::select(doi, dynamic:process_interactions, species_count, organizational_lvl, spatial_ext, spatial_res) %>%
   mutate(across(c("how", "where", "why", "when"), helperFunction)) %>% 
   mutate(across(starts_with(c("how", "where", "why", "when")), as.logical)) %>% 
   mutate(species_count = log10(as.numeric(number_sp))) %>% 

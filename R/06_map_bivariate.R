@@ -1,3 +1,20 @@
+# -----------------------------------------------------------------------------
+# 06_map_bivariate.R
+# Purpose: Build the bivariate world map combining study density (count of
+#          papers per country) with each country's share of renewables in
+#          its primary energy consumption.
+# Inputs:  output/processed/df_plot_corr.csv,
+#          output/processed/tabla_freq_country_corr.csv,
+#          data/renewable_share_energy.csv
+# Outputs: output/figures/map_bivariate.pdf,
+#          output/figures/map_bivariate.png,
+#          output/processed/map_bivariate_v1.pdf .. _v3.pdf (intermediate
+#          drafts kept for the manuscript revision trail)
+# Author:  Arrondo E., Fandos G. and co-authors
+# Date:    2026
+# R:       4.5.3. See ../sessionInfo.txt for the exact package versions.
+# -----------------------------------------------------------------------------
+
 library(readxl)
 library(tidyverse)
 library(dplyr)

@@ -1,3 +1,17 @@
+# -----------------------------------------------------------------------------
+# helpers/summary_organizational_level.R
+# Purpose: Auxiliary summary used during exploration. Tabulates papers by
+#          renewable-energy technology and organisational level
+#          (individual / population / species / community / ecosystem).
+#          Not part of the figures published in the manuscript.
+# Inputs:  papers_final (in memory; created by sourcing
+#          ../01_analysis_main.R in the same R session)
+# Outputs: none persisted (interactive use)
+# Author:  Arrondo E., Fandos G. and co-authors
+# Date:    2026
+# R:       4.5.3. See ../../sessionInfo.txt for the exact package versions.
+# -----------------------------------------------------------------------------
+
 library(tidyverse)
 library(forcats)
 

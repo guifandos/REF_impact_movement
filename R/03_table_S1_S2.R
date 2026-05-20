@@ -1,3 +1,21 @@
+# -----------------------------------------------------------------------------
+# 03_table_S1_S2.R
+# Purpose: Build Supplementary Tables S1 and S2 (counts of papers by
+#          renewable-energy technology x movement component x spatial
+#          scale, and x organisational level).
+# Inputs:  papers_final (in memory; must be created by sourcing
+#          01_analysis_main.R in the same R session)
+# Outputs: output/tables/Table_S1_tech_component_scale_long.csv,
+#          output/tables/Table_S1_tech_component_scale_wide.csv,
+#          output/tables/Table_S2_tech_component_biolevel_long.csv,
+#          output/tables/Table_S2_tech_component_biolevel_wide.csv,
+#          output/processed/check_counts_tech_component_long.csv,
+#          output/processed/check_counts_tech_component_wide.csv
+# Author:  Arrondo E., Fandos G. and co-authors
+# Date:    2026
+# R:       4.5.3. See ../sessionInfo.txt for the exact package versions.
+# -----------------------------------------------------------------------------
+
 library(tidyverse)
 library(forcats)
 

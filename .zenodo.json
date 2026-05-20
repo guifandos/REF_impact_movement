@@ -1,0 +1,120 @@
+{
+  "title": "Impacts of renewable energy facilities on animal movement: dataset and code",
+  "description": "<p>Dataset (N=134 studies) and R analysis code supporting the systematic review of animal movement disruptions by renewable energy facilities (Arrondo et al. 2026). The pipeline reproduces the main figure (matrix of renewable-energy facility &times; movement component), the bivariate world map of study density vs. renewable-energy share, the waffle plots, and Supplementary Tables S1 and S2. Code is released under MIT and data under CC BY 4.0; see <code>LICENSE</code> and <code>LICENSE-data</code> in the repository.</p>",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Arrondo, Eneko",
+      "affiliation": "Department of Zoology, University of Granada, Granada, Spain",
+      "orcid": "0000-0003-1728-9800"
+    },
+    {
+      "name": "Fandos, Guillermo",
+      "affiliation": "Department of Biodiversity Ecology and Evolution, Faculty of Biology, Complutense University of Madrid, Madrid, Spain",
+      "orcid": "0000-0003-1579-9444"
+    },
+    {
+      "name": "Tucker, Marlee A.",
+      "affiliation": "Department of Environmental Science, Radboud Institute of Biological and Environmental Sciences, Radboud University, Nijmegen, the Netherlands"
+    },
+    {
+      "name": "Gallagher, Cara A.",
+      "affiliation": "Department of Ecoscience, Aarhus University, Roskilde, Denmark",
+      "orcid": "0000-0001-7094-1752"
+    },
+    {
+      "name": "Delgado, María del Mar",
+      "affiliation": "Biodiversity Research Institute (IMIB, CSIC-Oviedo University-Principality of Asturias), Mieres Campus, Mieres, Spain",
+      "orcid": "0000-0002-3009-738X"
+    },
+    {
+      "name": "Scacco, Martina"
+    },
+    {
+      "name": "de los Reyes, José Manuel"
+    },
+    {
+      "name": "Payo-Payo, Ana",
+      "affiliation": "Animal Ecology Lab, Departamento de Biología Animal, Ecología, Parasitología, Edafología y Química Agrícola, Universidad de Salamanca, Salamanca, Spain",
+      "orcid": "0000-0001-5482-242X"
+    },
+    {
+      "name": "Morant, Jon",
+      "affiliation": "Department of Zoology and Animal Cellular Biology, University of the Basque Country, Álava, Spain; School of Biology and Environmental Science, University College Dublin, Dublin, Ireland"
+    },
+    {
+      "name": "da Silva, João Paulo",
+      "affiliation": "CIBIO, Centro de Investigação em Biodiversidade e Recursos Genéticos, InBIO Laboratório Associado, Universidade do Porto, Vairão, Portugal; BIOPOLIS Program in Genomics, Biodiversity and Land Planning, CIBIO, Vairão, Portugal"
+    },
+    {
+      "name": "Assandri, Giacomo",
+      "affiliation": "Department of Science and Technological Innovation, University of Eastern Piedmont \"Amedeo Avogadro\", Alessandria, Italy"
+    },
+    {
+      "name": "Börger, Luca",
+      "affiliation": "Department of Biosciences, Swansea University, Swansea, United Kingdom",
+      "orcid": "0000-0001-8763-5997"
+    },
+    {
+      "name": "Oltra, Juan"
+    },
+    {
+      "name": "Fernández-Gómez, Lola",
+      "affiliation": "Department of Applied Biology, Universidad Miguel Hernández de Elche, Elche, Spain",
+      "orcid": "0000-0001-5128-4646"
+    },
+    {
+      "name": "Ortega, Zaida",
+      "affiliation": "Department of Biodiversity and Environmental Management, University of León, León, Spain",
+      "orcid": "0000-0002-8167-1652"
+    },
+    {
+      "name": "Bota, Gerard"
+    },
+    {
+      "name": "Gómez-Catasus, Julia",
+      "affiliation": "Department of Ecology, Universidad Autónoma de Madrid, Madrid, Spain; Centro de Investigación en Biodiversidad y Cambio Global, CIBC-UAM, Universidad Autónoma de Madrid, Madrid, Spain"
+    },
+    {
+      "name": "Tena, Elena",
+      "affiliation": "Department of Ecology and Evolution, Doñana Biological Station, CSIC, Seville, Spain",
+      "orcid": "0000-0003-4406-5933"
+    },
+    {
+      "name": "García-Alfonso, Marina",
+      "affiliation": "Department of Conservation Biology and Global Change, Estación Biológica de Doñana (CSIC), Seville, Spain",
+      "orcid": "0000-0003-4953-7207"
+    },
+    {
+      "name": "Pérez-García, Juan Manuel",
+      "affiliation": "Ecology Area, Department of Applied Biology, Universidad Miguel Hernández de Elche, Elche, Spain",
+      "orcid": "0000-0002-1191-0187"
+    }
+  ],
+  "keywords": [
+    "animal movement",
+    "renewable energy",
+    "systematic review",
+    "movement ecology",
+    "wind energy",
+    "hydropower",
+    "solar energy",
+    "fatal attraction",
+    "avoidance",
+    "impermeability",
+    "biodiversity",
+    "conservation"
+  ],
+  "communities": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/guifandos/REF_impact_movement",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Companion code and data for Arrondo et al. 2026. The journal DOI will be added as a related identifier with relation 'isSupplementTo' once the article is published."
+}
